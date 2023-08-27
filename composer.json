@@ -1,0 +1,16 @@
+{
+  "name": "maksveter/wp-faq-block",
+  "version": "1.0.0",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "require": {
+	"php": ">=7.1",
+	"composer/installers": "^1.9"
+  },
+  "description": "Custom Gutenberg block that allows users to add frequently asked questions in an accordion-style format.",
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
+}

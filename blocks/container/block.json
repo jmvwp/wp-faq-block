@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "mvwp/faq-container-block",
+    "version": "1.0.0",
+    "title": "FAQ block",
+	"category": "design",
+	"description": "FAQ items block.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "mvwp-blocks",
+	"editorScript": "file:./build/index.js",
+    "script": "file:./build/view.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}

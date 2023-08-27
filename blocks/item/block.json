@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "mvwp/faq-item-block",
+    "version": "1.0.0",
+    "title": "Faq Item",
+	"category": "design",
+	"description": "Faq single item with question and answer places.",
+	"supports": {
+		"html": false
+	},
+    "parent": ["mvwp/faq-container-block"],
+	"textdomain": "mvwp-blocks",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
