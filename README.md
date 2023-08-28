@@ -26,11 +26,6 @@ A Gutenberg block for creating FAQ accordions in WordPress.
 3. Configure the FAQ items by entering questions and answers.
 4. Customize the appearance using the block settings.
 
-## Screenshots
-
-![Screenshot 1](/screenshot/screenshot-1.png?raw=true)
-*Admin Gutenberg editor block view.*
-
 ## Frequently Asked Questions
 
 #### How do I customize the appearance of the WP FAQ block?
