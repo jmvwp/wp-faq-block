@@ -26,6 +26,18 @@ A Gutenberg block for creating FAQ accordions in WordPress.
 3. Configure the FAQ items by entering questions and answers.
 4. Customize the appearance using the block settings.
 
+## Screenshots
+
+![Screenshot 1](https://github.com/jmvwp/wp-faq-block/assets/140622500/967b8a08-7c02-42df-bb05-1382ec22314f)
+*Admin Gutenberg editor block view.*
+
+## Frequently Asked Questions
+
+#### How do I customize the appearance of the WP FAQ block?
+
+You can customize the appearance of the WP FAQ block using CSS or using hooks specified in **Development** section. The block provides class names that you can target in your theme's stylesheet.
+
+
 ## Development
 
 The "WP FAQ Block" Gutenberg block consists of Container and inner items blocks, provides the following JavaScript hooks that you can use to customize its behavior:
@@ -139,18 +151,6 @@ wp.hooks.addFilter('mvwp.faq-item-block.allowed_blocks', function (allowedBlocks
     */
 });
 ```
-
-## Screenshots
-
-![Screenshot 1](/screenshots/screenshot-1.png)
-*Admin Gutenberg editor block view.*
-
-## Frequently Asked Questions
-
-#### How do I customize the appearance of the WP FAQ block?
-
-You can customize the appearance of the WP FAQ block using CSS or using hooks specified in **Development** section. The block provides class names that you can target in your theme's stylesheet.
-
 
 ## License
 
