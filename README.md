@@ -28,7 +28,7 @@ A Gutenberg block for creating FAQ accordions in WordPress.
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/jmvwp/wp-faq-block/assets/140622500/967b8a08-7c02-42df-bb05-1382ec22314f)
+![Screenshot 1](/screenshot/screenshot-1.png?raw=true)
 *Admin Gutenberg editor block view.*
 
 ## Frequently Asked Questions
